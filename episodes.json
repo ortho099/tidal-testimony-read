@@ -1,0 +1,20 @@
+{
+  "title": "潮汐證詞",
+  "englishTitle": "Tidal Testimony",
+  "episodes": [
+    {
+      "number": 1,
+      "season": 1,
+      "slug": "rain-seal",
+      "published": "2026-11-26",
+      "locationTag": "香港・西環／中環",
+      "title": "雨夜封存令",
+      "summary": "黑雨夜的西環舊律所，商業調查顧問沈知微遇上從紐約空降封存檔案的陸沉舟。隔著一張紅木長桌與七年未言明的前塵，兩人在第一晚便亮出了刀鋒——而真正令她背脊發涼的線索，卻在她回到鎖好門的事務所之後才出現。",
+      "urls": {
+        "zh-Hant": "/tidal-testimony-read/episodes/rain-seal/",
+        "zh-Hans": "/tidal-testimony-read/episodes/rain-seal/zh-hans/",
+        "en": "/tidal-testimony-read/episodes/rain-seal/en/"
+      }
+    }
+  ]
+}

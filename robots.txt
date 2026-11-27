@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ortho099.github.io/tidal-testimony-read/sitemap.xml

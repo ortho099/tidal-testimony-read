@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>潮汐證詞 · Tidal Testimony</title>
+    <link>https://ortho099.github.io/tidal-testimony-read/</link>
+    <atom:link href="https://ortho099.github.io/tidal-testimony-read/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>黑雨夜的西環舊律所，獨立商業調查顧問沈知微遇上從紐約空降的封存合夥人陸沉舟。她要從七年前那場信託爆煲案裡打撈真相與兄長的下落，他奉命把所有底稿永遠鎖進檔案庫。隔著一張長桌與七年未言明的前塵，兩人在香港、上海與紐約的暗流之間相互試探，直到退潮露出礁石底下的最後一頁證詞。</description>
+    <language>zh-Hant</language>
+    <item>
+      <title>第 01 集：雨夜封存令</title>
+      <link>https://ortho099.github.io/tidal-testimony-read/episodes/rain-seal/</link>
+      <guid isPermaLink="true">https://ortho099.github.io/tidal-testimony-read/episodes/rain-seal/</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 GMT</pubDate>
+      <description>黑雨夜的西環舊律所，商業調查顧問沈知微遇上從紐約空降封存檔案的陸沉舟。隔著一張紅木長桌與七年未言明的前塵，兩人在第一晚便亮出了刀鋒——而真正令她背脊發涼的線索，卻在她回到鎖好門的事務所之後才出現。</description>
+    </item>
+  </channel>
+</rss>
