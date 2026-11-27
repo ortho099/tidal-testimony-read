@@ -223,6 +223,7 @@ a {
 
 .hero-card {
   position: relative;
+  width: 100%;
   border-radius: 16px;
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -335,6 +336,53 @@ a {
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 1.6rem clamp(1.25rem, 3vw, 2.2rem);
+}
+
+.trailer-section {
+  min-width: 0;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  scroll-margin-top: 6rem;
+}
+
+.trailer-heading {
+  padding: 1.4rem clamp(1.25rem, 3vw, 2.2rem) 1.15rem;
+}
+
+.trailer-detail {
+  margin: 0;
+  color: var(--ink-muted);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.trailer-section video {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  background: #080d13;
+}
+
+.trailer-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem 1rem;
+  padding: 1rem clamp(1.25rem, 3vw, 2.2rem);
+  margin: 0;
+  color: var(--ink-muted);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+}
+
+.trailer-footer a {
+  color: var(--accent-warm);
+  text-underline-offset: 0.25em;
 }
 
 .section-label {
