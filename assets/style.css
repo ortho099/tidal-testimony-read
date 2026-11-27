@@ -838,6 +838,10 @@ a {
 }
 
 @media (max-width: 720px) {
+  .trailer-section {
+    scroll-margin-top: 11rem;
+  }
+
   .episode-card {
     grid-template-columns: 1fr;
     gap: 0;
