@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ortho099.github.io/tidal-testimony-read/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ortho099.github.io/tidal-testimony-read/zh-hans/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ortho099.github.io/tidal-testimony-read/en/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ortho099.github.io/tidal-testimony-read/episodes/rain-seal/</loc>
@@ -23,5 +23,17 @@
   <url>
     <loc>https://ortho099.github.io/tidal-testimony-read/episodes/rain-seal/en/</loc>
     <lastmod>2026-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://ortho099.github.io/tidal-testimony-read/episodes/joint-audit/</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://ortho099.github.io/tidal-testimony-read/episodes/joint-audit/zh-hans/</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://ortho099.github.io/tidal-testimony-read/episodes/joint-audit/en/</loc>
+    <lastmod>2026-11-27</lastmod>
   </url>
 </urlset>

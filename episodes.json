@@ -15,6 +15,20 @@
         "zh-Hans": "/tidal-testimony-read/episodes/rain-seal/zh-hans/",
         "en": "/tidal-testimony-read/episodes/rain-seal/en/"
       }
+    },
+    {
+      "number": 2,
+      "season": 1,
+      "slug": "joint-audit",
+      "published": "2026-11-27",
+      "locationTag": "香港・金鐘／中環／西環",
+      "title": "共同審計人",
+      "summary": "委託人連夜撤案後，沈知微一早就被律師行告上商業法庭要求強行收繳舊檔；沒想到法官卻頒下七十二小時聯合審計裁決，迫使她與陸沉舟同桌對帳——而他在帳冊夾縫裡故意露出的那個西環舊碼頭編號，把她引進了更深的霧裡。",
+      "urls": {
+        "zh-Hant": "/tidal-testimony-read/episodes/joint-audit/",
+        "zh-Hans": "/tidal-testimony-read/episodes/joint-audit/zh-hans/",
+        "en": "/tidal-testimony-read/episodes/joint-audit/en/"
+      }
     }
   ]
 }
